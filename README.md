@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="assets/logo_512.png" width="300">
+    <img src="assets/logo_512.png" width="200">
 </p>
+
 # MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection
 
 [Haoyang He<sup>1#</sup>](https://scholar.google.com/citations?hl=zh-CN&user=8NfQv1sAAAAJ),
