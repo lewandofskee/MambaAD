@@ -36,11 +36,6 @@ Recent advancements in anomaly detection have seen the efficacy of CNN- and tran
   <img src="assets/mambaad.png" alt="accuracy" width="80%">
 </p>
 
-**Hybrid Scanning**
-
-<p align="center">
-  <img src="assets/hybrid_scan.png" alt="arch" width="80%">
-</p>
 
 ## Main results
 <p align="center">
