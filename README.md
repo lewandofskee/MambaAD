@@ -39,7 +39,7 @@ Recent advancements in anomaly detection have seen the efficacy of CNN- and tran
 
 ## Main results
 <p align="center">
-  <img src="assets/all_result.png" alt="arch" width="80%">
+  <img src="assets/all_result.png" alt="arch" width="100%">
 </p>
 
 ## Citation
