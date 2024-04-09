@@ -49,5 +49,5 @@ If you find this code useful, don't forget to star the repo and cite the paper:
 
 ```
 ## Acknowledgements
-We thank the great works [VMamba]https://github.com/MzeroMiko/VMamba), [VM-UNet]([https://github.com/CompVis/latent-diffusion](https://github.com/JCruan519/VM-UNet)) and [ADer](https://github.com/zhangzjn/ADer) for providing assistance for our research.
+We thank the great works [VMamba](https://github.com/MzeroMiko/VMamba), [VM-UNet](https://github.com/JCruan519/VM-UNet)) and [ADer](https://github.com/zhangzjn/ADer) for providing assistance for our research.
 
