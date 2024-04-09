@@ -1,7 +1,8 @@
-<p align="center">
-    <img src="assets/logo_512.png" width="200">
-    <h1>MambaAD</h1>
-</p>
+<div align="center">
+<img src="assets/logo_512.png" width="200">
+<h1>MambaAD </h1>
+<h3>MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection</h3>
+</div>
 
 # MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection
 
