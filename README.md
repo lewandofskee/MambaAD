@@ -15,4 +15,7 @@
 
 <sup>1</sup>College of Control Science and Engineering, Zhejiang University, 
 <sup>2</sup>Youtu Lab, Tencent,
-<sup>2</sup>Nanyang Technological University, Singapore
+<sup>3</sup>Nanyang Technological University, Singapore
+
+[[`Paper`]()] 
+[[`Project Page`](https://lewandofskee.github.io/projects/MambaAD/)]
