@@ -3,9 +3,9 @@
 <h1>MambaAD </h1>
 <h3>MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection</h3>
 
-[Haoyang He<sup>1#</sup>](https://scholar.google.com/citations?hl=zh-CN&user=8NfQv1sAAAAJ),
-[Yuhu Bai<sup>1#</sup>](https://scholar.google.com/citations?hl=zh-CN&user=ucCvgooAAAAJ),
-[Jiangning Zhang<sup>2*</sup>](https://zhangzjn.github.io),
+[Haoyang He<sup>1*</sup>](https://scholar.google.com/citations?hl=zh-CN&user=8NfQv1sAAAAJ),
+[Yuhu Bai<sup>1*</sup>](https://scholar.google.com/citations?hl=zh-CN&user=ucCvgooAAAAJ),
+[Jiangning Zhang<sup>2</sup>](https://zhangzjn.github.io),
 [Qingdong He<sup>2</sup>](https://scholar.google.com/citations?hl=zh-CN&user=gUJWww0AAAAJ),
 [Hongxu Chen<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&user=uFT3YfMAAAAJ),
 
@@ -15,7 +15,7 @@
 [Guanzhong Tian<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&user=0q-7PI4AAAAJ),
 [Lei Xie<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&user=7ZZ_-m0AAAAJ)
 
-(#Equal contribution, *Project Leader)
+(*Equal contribution)
 
 <sup>1</sup>College of Control Science and Engineering, Zhejiang University, 
 <sup>2</sup>Youtu Lab, Tencent,
