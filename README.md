@@ -3,19 +3,17 @@
 <h1>MambaAD </h1>
 <h3>MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection</h3>
 
-[Haoyang He<sup>1#</sup>](https://scholar.google.com/citations?hl=zh-CN&user=8NfQv1sAAAAJ),
-[Yuhu Bai<sup>1#</sup>](https://scholar.google.com/citations?hl=zh-CN&user=ucCvgooAAAAJ),
-[Jiangning Zhang<sup>2*</sup>](https://zhangzjn.github.io),
+[Haoyang He<sup>1*</sup>](https://scholar.google.com/citations?hl=zh-CN&user=8NfQv1sAAAAJ),
+[Yuhu Bai<sup>1*</sup>](https://scholar.google.com/citations?hl=zh-CN&user=ucCvgooAAAAJ),
+[Jiangning Zhang<sup>2</sup>](https://zhangzjn.github.io),
 [Qingdong He<sup>2</sup>](https://scholar.google.com/citations?hl=zh-CN&user=gUJWww0AAAAJ),
-[Hongxu Chen<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&user=uFT3YfMAAAAJ),
+[Hongxu Chen<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&user=uFT3YfMAAAAJ)
 
 [Zhenye Gan<sup>2</sup>](https://scholar.google.com/citations?user=fa4NkScAAAAJ&hl=zh-CN),
 [Chengjie Wang<sup>2</sup>](https://scholar.google.com/citations?hl=zh-CN&user=fqte5H4AAAAJ),
 [Xiangtai Li<sup>3</sup>](https://lxtgh.github.io/),
 [Guanzhong Tian<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&user=0q-7PI4AAAAJ),
 [Lei Xie<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&user=7ZZ_-m0AAAAJ)
-
-(#Equal contribution, *Project Leader)
 
 <sup>1</sup>College of Control Science and Engineering, Zhejiang University, 
 <sup>2</sup>Youtu Lab, Tencent,
@@ -33,11 +31,20 @@ Recent advancements in anomaly detection have seen the efficacy of CNN- and tran
 
 ## Overview
 <p align="center">
-  <img src="assets/mambaad.png" alt="accuracy" width="80%">
+  <img src="assets/mambaad.png" alt="accuracy" width="100%">
 </p>
 
-**Hybrid Scanning**
 
+## Main results
 <p align="center">
-  <img src="assets/hybrid_scan.png" alt="arch" width="80%">
+  <img src="assets/all_result.png" alt="arch" width="100%">
 </p>
+
+## Citation
+If you find this code useful, don't forget to star the repo and cite the paper:
+```
+
+```
+## Acknowledgements
+We thank the great works [VMamba](https://github.com/MzeroMiko/VMamba), [VM-UNet](https://github.com/JCruan519/VM-UNet) and [ADer](https://github.com/zhangzjn/ADer) for providing assistance for our research.
+
