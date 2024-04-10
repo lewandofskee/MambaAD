@@ -15,8 +15,6 @@
 [Guanzhong Tian<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&user=0q-7PI4AAAAJ),
 [Lei Xie<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&user=7ZZ_-m0AAAAJ)
 
-(*Equal contribution)
-
 <sup>1</sup>College of Control Science and Engineering, Zhejiang University, 
 <sup>2</sup>Youtu Lab, Tencent,
 <sup>3</sup>Nanyang Technological University, Singapore
