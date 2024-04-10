@@ -1,6 +1,5 @@
 <div align="center">
-<img src="assets/logo_512.png" width="200">
-<h1>MambaAD </h1>
+<img src="assets/caption.png" width="1000">
 <h3>MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection</h3>
 
 [Haoyang He<sup>1*</sup>](https://scholar.google.com/citations?hl=zh-CN&user=8NfQv1sAAAAJ),
