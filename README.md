@@ -18,7 +18,7 @@
 <sup>2</sup>Youtu Lab, Tencent,
 <sup>3</sup>Nanyang Technological University, Singapore
 
-[[`Paper`]()] 
+[[`Paper`](https://arxiv.org/pdf/2404.06564.pdf)] 
 [[`Project Page`](https://lewandofskee.github.io/projects/MambaAD/)]
 
 Our MambaAD is based on [ADer](https://github.com/zhangzjn/ADer). We will release the full code within a week.
@@ -42,7 +42,12 @@ Recent advancements in anomaly detection have seen the efficacy of CNN- and tran
 ## Citation
 If you find this code useful, don't forget to star the repo and cite the paper:
 ```
-
+@article{he2024mambaad,
+      title={MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection}, 
+      author={Haoyang He and Yuhu Bai and Jiangning Zhang and Qingdong He and Hongxu Chen and Zhenye Gan and Chengjie Wang and Xiangtai Li and Guanzhong Tian and Lei Xie},
+      journal={arXiv preprint arXiv:2404.06564},
+      year={2024},
+}
 ```
 ## Acknowledgements
 We thank the great works [VMamba](https://github.com/MzeroMiko/VMamba), [VM-UNet](https://github.com/JCruan519/VM-UNet) and [ADer](https://github.com/zhangzjn/ADer) for providing assistance for our research.
