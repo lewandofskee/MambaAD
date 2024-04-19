@@ -49,7 +49,7 @@ class PatchExpand2D(nn.Module):
         x= self.norm(x)
         return x
 
-class SCANS(nn.Module):
+class HSCANS(nn.Module):
 	def __init__(self, size=16, dim=2, scan_type='scan', ):
 		super().__init__()
 		size = int(size)
@@ -176,7 +176,7 @@ class SS2D(nn.Module):
         self.out_norm = nn.LayerNorm(self.d_inner)
         self.out_proj = nn.Linear(self.d_inner, self.d_model, bias=bias, **factory_kwargs)
         self.dropout = nn.Dropout(dropout) if dropout > 0. else None
-        self.scans = SCANS(size=size, scan_type=scan_type)
+        self.scans = HSCANS(size=size, scan_type=scan_type)
 
     @staticmethod
     def dt_init(dt_rank, d_inner, dt_scale=1.0, dt_init="random", dt_min=0.001, dt_max=0.1, dt_init_floor=1e-4,
