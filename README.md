@@ -23,6 +23,8 @@
 
 Our MambaAD is based on [ADer](https://github.com/zhangzjn/ADer).
 
+##Congratulations! Our MambaAD has been accepted at the NeurIPS 2024 conference!##
+
 </div>
 
 ## Abstract
